@@ -1,0 +1,2 @@
+mkdir -p scraper_bot/{ui/components,assets/icons,scraper,build} && touch scraper_bot/{main.py,requirements.txt,README.md} scraper_bot/ui/main_window.py scraper_bot/ui/components/header_bar.py scraper_bot/assets/styles.qss scraper_bot/scraper/etsy_scraper.py
+
