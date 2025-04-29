@@ -1,5 +1,7 @@
 # Scraper Bot
 
+<img src="scraper_gui.png" alt="Scraper Bot Screenshot" />
+
 **Scraper Bot** is a simple desktop application built with **Python** and **PySide6** that scrapes product data (like title, price, availability, image) from a given Etsy URL and saves it into a CSV file.  
 It features a graphical interface with live preview of scraped products.
 
